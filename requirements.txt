@@ -1,0 +1,8 @@
+streamlit
+Pillow
+requests
+google-generativeai
+openai
+streamlit-component-lib
+anthropic
+openrouter
