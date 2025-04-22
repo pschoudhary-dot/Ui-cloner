@@ -34,7 +34,7 @@ Follow these steps to set up and run the project locally:
     ```
 
 2.  **Create and Activate a Virtual Environment (Recommended):**
-    *If you don't have Python installed, please download and install it from [Python's official website](https://www.python.org/downloads/) <img src="https://www.python.org/static/img/python-logo.png" alt="Python Logo" height="50" width="150">*
+    *If you don't have Python installed, please download and install it from [Python's official website](https://www.python.org/downloads/)*
     ```bash
     # Windows
     python -m venv venv
